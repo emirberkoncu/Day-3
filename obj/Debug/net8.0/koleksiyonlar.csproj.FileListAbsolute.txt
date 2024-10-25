@@ -1,0 +1,14 @@
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\bin\Debug\net8.0\koleksiyonlar.exe
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\bin\Debug\net8.0\koleksiyonlar.deps.json
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\bin\Debug\net8.0\koleksiyonlar.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\bin\Debug\net8.0\koleksiyonlar.dll
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\bin\Debug\net8.0\koleksiyonlar.pdb
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.dll
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\refint\koleksiyonlar.dll
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.pdb
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\koleksiyonlar.genruntimeconfig.cache
+c:\Users\defeatedbynone\Desktop\cs#\koleksiyonlar\obj\Debug\net8.0\ref\koleksiyonlar.dll
